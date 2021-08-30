@@ -29,14 +29,7 @@
 
 ## Paper
 
-## Table of Contents
-
-* **[How to replicate](#how-to-replicate)**
-
-* **[License](#license)**
-
 ## How to replicate 
-...
 
 ## License 
 
