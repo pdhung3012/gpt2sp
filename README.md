@@ -19,6 +19,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
+      <a href="#paper">Paper</a>
+    </li>
+    <li>
       <a href="#how-to-replicate">How to replicate</a>
     </li>
     <li>
