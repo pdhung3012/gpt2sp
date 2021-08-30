@@ -14,6 +14,19 @@
   </p>
 </p>
 
+<!-- Table of contents -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#how-to-replicate">How to replicate</a>
+    </li>
+    <li>
+      <a href="#license">License</a>
+    </li>
+  </ol>
+</details>
+
 ## Paper
 
 ## Table of Contents
@@ -24,3 +37,6 @@
 
 ## How to replicate 
 ...
+
+## License 
+
