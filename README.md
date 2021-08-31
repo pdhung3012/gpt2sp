@@ -1,4 +1,4 @@
-# GPT2SP Replicable Package
+# GPT2SP Replication Package
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
