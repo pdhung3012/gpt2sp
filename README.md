@@ -8,7 +8,7 @@
   <p align="center">
     A web-based Agile story point estimator
     <br />
-    <a href="https://share.streamlit.io/awsm-research/gpt2sp_webapp/main/gpt2sp_webapp/app.py"><strong>View Demo »</strong></a>
+    <a href="https://share.streamlit.io/awsm-research/gpt2sp_webapp/main/app.py"><strong>View Demo »</strong></a>
     <br />
   </p>
 </p>
