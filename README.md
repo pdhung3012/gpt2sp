@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="logo/gpt2sp_logo.png" alt="LOGO TODO" width="200" height="200">
+    <img src="logo/gpt2sp_logo.png" width="200" height="200">
   </a>
   <h3 align="center">GPT2SP</h3>
   <p align="center">
