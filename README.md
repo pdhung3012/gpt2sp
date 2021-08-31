@@ -95,4 +95,4 @@ Model ID | Model Specification | Experiment Scenario
 * Special thanks to developers from PyTorch, HuggingFace, Streamlit, Transformers Interpret for providing amazing frameworks for the community
   
 ## License 
-
+<a href="https://github.com/awsm-research/gpt2sp/blob/main/LICENSE">MIT License</a>
