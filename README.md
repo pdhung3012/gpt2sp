@@ -56,6 +56,7 @@ issuekey | title | description | storypoint | split_mark
 
 #### Model Naming Convention
 All of the models on HuggingFace Model Hub and Google Drive has the same naming convention as described in the following table:
+
 Model ID | Model Specification | Experiment Scenario
 | :---: | :---: | :---: 
 #0  | BPE GPT2 Tokenizer + Custom Pre-trained GPT-2 (GPT2SP) | Within-Project 
