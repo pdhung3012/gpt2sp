@@ -23,3 +23,19 @@ titanium,appceleratorstudio,3.0,ABE0 by Choetkiertikul et al.,Within Repository
 aptanastudio,titanium,3.53,ABE0 by Choetkiertikul et al.,Within Repository
 mule,mulestudio,3.55,ABE0 by Choetkiertikul et al.,Within Repository
 mulestudio,mule,2.64,ABE0 by Choetkiertikul et al.,Within Repository
+mesos,usergrid,0.58,GPT2SP,Within Repository
+usergrid,mesos,1.46,GPT2SP,Within Repository
+appceleratorstudio,aptanastudio,2.63,GPT2SP,Within Repository
+appceleratorstudio,titanium,2.58,GPT2SP,Within Repository
+titanium,appceleratorstudio,2.07,GPT2SP,Within Repository
+aptanastudio,titanium,3.52,GPT2SP,Within Repository
+mule,mulestudio,2.89,GPT2SP,Within Repository
+mulestudio,mule,2.25,GPT2SP,Within Repository
+mesos,usergrid,1.07,Deep-SE,Within Repository
+usergrid,mesos,1.14,Deep-SE,Within Repository
+appceleratorstudio,aptanastudio,2.75,Deep-SE,Within Repository
+appceleratorstudio,titanium,1.99,Deep-SE,Within Repository
+titanium,appceleratorstudio,2.85,Deep-SE,Within Repository
+aptanastudio,titanium,3.41,Deep-SE,Within Repository
+mule,mulestudio,3.14,Deep-SE,Within Repository
+mulestudio,mule,2.31,Deep-SE,Within Repository
