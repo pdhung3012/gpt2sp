@@ -89,7 +89,7 @@ Model ID | Model Specification | Experiment Scenario
   * WordPieceSP+GPT2
   
 ### About the GPT2SP Web App
-* Access the GPT2SP web app <a href="https://share.streamlit.io/awsm-research/gpt2sp_webapp/main/gpt2sp_webapp/app.py"> here </a> to interact with our GPT2SP model and navigate the datasets
+* Access the GPT2SP web app <a href="https://share.streamlit.io/awsm-research/gpt2sp_webapp/main/app.py"> here </a> to interact with our GPT2SP model and navigate the datasets
 
 ## Acknowledgements
 * Special thanks to DeepSE's developers for providing the datasets and the replication package.
