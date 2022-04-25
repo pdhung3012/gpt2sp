@@ -1,0 +1,224 @@
+Setting within_project/ GPT2SP
+Average MAE	2.5703296993765528
+Median MAE	2.0843236685410043
+
+Name	NumOfTest	MAE
+appceleratorstudio.csv	584	1.5062897042808219
+aptanastudio.csv	166	3.4558808753012045
+bamboo.csv	105	0.7714695990476189
+clover.csv	77	3.5543612119480517
+datamanagement.csv	934	5.581775531138115
+duracloud.csv	134	0.8555899947014927
+jirasoftware.csv	71	1.632661576056338
+mesos.csv	336	1.18093145
+moodle.csv	234	7.302451053846154
+mule.csv	178	2.5489865078651683
+mulestudio.csv	147	3.6414289639455784
+springxd.csv	706	1.7329789592549574
+talenddataquality.csv	277	2.8301732841155234
+talendesb.csv	174	0.8944288027586208
+titanium.csv	451	2.4356683778270516
+usergrid.csv	97	1.2001992979381442
+
+
+
+Setting within_project/ sentencepiece_sp_gpt2
+Average MAE	2.6451879559514038
+Median MAE	1.940245591695351
+
+Name	NumOfTest	MAE
+appceleratorstudio.csv	584	1.3849794285958905
+aptanastudio.csv	166	3.881683377108434
+bamboo.csv	105	0.7825452276190475
+clover.csv	77	3.7064819389610384
+datamanagement.csv	934	5.89396696872591
+duracloud.csv	134	0.9164469714925372
+jirasoftware.csv	71	1.6059537774647885
+mesos.csv	336	1.2219676752083335
+moodle.csv	234	7.607539449722222
+mule.csv	178	2.484645423033708
+mulestudio.csv	147	3.680244973469388
+springxd.csv	706	1.75439948427762
+talenddataquality.csv	277	3.1289268212996393
+talendesb.csv	174	0.9654230770689657
+titanium.csv	451	2.126091699113082
+usergrid.csv	97	1.1817110020618558
+
+
+
+Setting within_project/ wordlevel_sp_gpt2
+Average MAE	2.7667978461415297
+Median MAE	1.9940857016902225
+
+Name	NumOfTest	MAE
+appceleratorstudio.csv	584	1.388923838869863
+aptanastudio.csv	166	3.897504348795181
+bamboo.csv	105	0.824830239047619
+clover.csv	77	3.640482453766235
+datamanagement.csv	934	6.17555916233833
+duracloud.csv	134	0.7549766358208956
+jirasoftware.csv	71	1.745810105633803
+mesos.csv	336	1.1915749143154761
+moodle.csv	234	8.836697065384614
+mule.csv	178	2.4845832657303375
+mulestudio.csv	147	3.5876809292517007
+springxd.csv	706	1.774940078546742
+talenddataquality.csv	277	3.543008638628159
+talendesb.csv	174	0.9404604548275862
+titanium.csv	451	2.213231324833703
+usergrid.csv	97	1.2685020824742266
+
+
+
+Setting within_project/ wordpiece_sp_gpt2
+Average MAE	2.674054570103061
+Median MAE	1.9410066432622342
+
+Name	NumOfTest	MAE
+appceleratorstudio.csv	584	1.3230775965753425
+aptanastudio.csv	166	3.564780873493976
+bamboo.csv	105	0.7570097342857143
+clover.csv	77	3.6448355181818184
+datamanagement.csv	934	5.700281982815846
+duracloud.csv	134	0.7871718557462686
+jirasoftware.csv	71	1.7606003169014084
+mesos.csv	336	1.1534879838690475
+moodle.csv	234	8.618633942307692
+mule.csv	178	2.510996683707865
+mulestudio.csv	147	3.5859542653061225
+springxd.csv	706	1.7267614776203966
+talenddataquality.csv	277	3.4194703180505415
+talendesb.csv	174	0.8874955206896552
+titanium.csv	451	2.12141296962306
+usergrid.csv	97	1.2229020824742267
+
+
+
+Setting cross_project/within_repo/ GPT2SP
+Average MAE	2.7701459655024236
+Median MAE	2.931869093015478
+
+Name	NumOfTest	MAE
+appceleratorstudio_aptanastudio.csv	829	4.449754593486128
+appceleratorstudio_titanium.csv	2251	3.2049447998667264
+aptanastudio_titanium.csv	2251	3.7144785012883164
+mesos_usergrid.csv	482	0.9755453118257262
+mulestudio_mule.csv	889	2.6587933861642297
+mule_mulestudio.csv	732	3.3633315572404374
+titanium_appceleratorstudio.csv	2919	2.2941257306954435
+usergrid_mesos.csv	1680	1.500193843452381
+
+
+
+Setting cross_project/within_repo/ sentencepiece_sp_gpt2
+Average MAE	2.8550634864494175
+Median MAE	2.944747423028935
+
+Name	NumOfTest	MAE
+appceleratorstudio_aptanastudio.csv	829	4.451197196743064
+appceleratorstudio_titanium.csv	2251	3.1905271486450464
+aptanastudio_titanium.csv	2251	4.020012578720569
+mesos_usergrid.csv	482	1.0783033298755187
+mulestudio_mule.csv	889	2.698967697412823
+mule_mulestudio.csv	732	3.3778694509562843
+titanium_appceleratorstudio.csv	2919	2.458178829599178
+usergrid_mesos.csv	1680	1.5654516596428572
+
+
+
+Setting cross_project/within_repo/ wordlevel_sp_gpt2
+Average MAE	2.887791246126442
+Median MAE	3.040419031423854
+
+Name	NumOfTest	MAE
+appceleratorstudio_aptanastudio.csv	829	4.5245050153196615
+appceleratorstudio_titanium.csv	2251	3.2980239130164373
+aptanastudio_titanium.csv	2251	3.982495469791204
+mesos_usergrid.csv	482	1.1460588460580914
+mulestudio_mule.csv	889	2.782814149831271
+mule_mulestudio.csv	732	3.6991116418032792
+titanium_appceleratorstudio.csv	2919	2.152542021822542
+usergrid_mesos.csv	1680	1.5167789113690475
+
+
+
+Setting cross_project/within_repo/ wordpiece_sp_gpt2
+Average MAE	2.7908476164612597
+Median MAE	2.9225673781084174
+
+Name	NumOfTest	MAE
+appceleratorstudio_aptanastudio.csv	829	4.39255862159228
+appceleratorstudio_titanium.csv	2251	3.201191877476677
+aptanastudio_titanium.csv	2251	4.063380726788094
+mesos_usergrid.csv	482	1.0045253800829876
+mulestudio_mule.csv	889	2.6439428787401575
+mule_mulestudio.csv	732	3.2977607039617483
+titanium_appceleratorstudio.csv	2919	2.2066988100719422
+usergrid_mesos.csv	1680	1.5167219329761905
+
+
+
+Setting cross_project/cross_repo/ GPT2SP
+Average MAE	2.8479976943594827
+Median MAE	2.9357142880230462
+
+Name	NumOfTest	MAE
+appceleratorstudio_mule.csv	889	2.626184741394826
+appceleratorstudio_mulestudio.csv	732	3.3245585075136614
+clover_usergrid.csv	482	1.0552342197095437
+mulestudio_titanium.csv	2251	3.245243834651266
+mule_titanium.csv	2251	3.2654505820524213
+talenddataquality_appceleratorstudio.csv	2919	2.5941883240493318
+talenddataquality_aptanastudio.csv	829	4.9550473867310005
+talendesb_mesos.csv	1680	1.7180739587738094
+
+
+
+Setting cross_project/cross_repo/ sentencepiece_sp_gpt2
+Average MAE	2.93323158795745
+Median MAE	3.1192949659718288
+
+Name	NumOfTest	MAE
+appceleratorstudio_mule.csv	889	2.636591787176603
+appceleratorstudio_mulestudio.csv	732	3.3710678800546447
+clover_usergrid.csv	482	1.3578458395435684
+mulestudio_titanium.csv	2251	3.2755747419813415
+mule_titanium.csv	2251	3.417375945757441
+talenddataquality_appceleratorstudio.csv	2919	2.9630151899623156
+talenddataquality_aptanastudio.csv	829	4.827801629481303
+talendesb_mesos.csv	1680	1.6165796897023812
+
+
+
+Setting cross_project/cross_repo/ wordlevel_sp_gpt2
+Average MAE	3.0922917791831535
+Median MAE	3.231083983460519
+
+Name	NumOfTest	MAE
+appceleratorstudio_mule.csv	889	2.6744538217097857
+appceleratorstudio_mulestudio.csv	732	3.359773647131148
+clover_usergrid.csv	482	1.3163493771784232
+mulestudio_titanium.csv	2251	3.2941404517103505
+mule_titanium.csv	2251	3.5698149033984894
+talenddataquality_appceleratorstudio.csv	2919	3.1680275152106883
+talenddataquality_aptanastudio.csv	829	5.745013335102534
+talendesb_mesos.csv	1680	1.6107611820238095
+
+
+
+Setting cross_project/cross_repo/ wordpiece_sp_gpt2
+Average MAE	2.997878156636719
+Median MAE	3.28733156633248
+
+Name	NumOfTest	MAE
+appceleratorstudio_mule.csv	889	2.629523881664792
+appceleratorstudio_mulestudio.csv	732	3.2843198132513662
+clover_usergrid.csv	482	1.1842661753112034
+mulestudio_titanium.csv	2251	3.291369396579298
+mule_titanium.csv	2251	3.290343319413594
+talenddataquality_appceleratorstudio.csv	2919	3.6656419713737582
+talenddataquality_aptanastudio.csv	829	5.02540862907117
+talendesb_mesos.csv	1680	1.6121520664285713
+
+
+
